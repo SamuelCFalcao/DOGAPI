@@ -1,7 +1,7 @@
 # Dog Api
 
 ## 1. Descrição do código
-Este projeto é um sistema cliente-servidor para amantes de cães. O servidor Spring Boot consome a DogAPI e fornece funcionalidades de gerenciamento de favoritos. O aplicativo Android permite navegar por raças, ver fotos e salvar imagens preferidas.
+Este projeto é um sistema cliente-servidor que consome a Dog Api. O servidor Spring Boot consome a DogAPI e fornece funcionalidades de gerenciamento de favoritos. O aplicativo Android permite navegar por raças, ver fotos e salvar imagens preferidas.
 
 ## 2. Descrição do Servidor REST e Rotas
 O servidor atua como um proxy para a DogAPI pública (https://dog.ceo/dog-api/).
