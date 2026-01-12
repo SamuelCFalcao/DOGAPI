@@ -1,6 +1,6 @@
 # DOG API
 
-## 1. Descrição do Programado
+## 1. Descrição
 
 Sistema distribuído composto por um servidor REST (Spring Boot) e um cliente Mobile (Android Kotlin). O sistema permite a exploração de raças de cães, visualização de galerias e gestão de uma lista de favoritos.
 
